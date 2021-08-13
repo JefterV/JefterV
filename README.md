@@ -12,7 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefterV&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
+  
+  ##  TECNOLOGIAS
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Jefter-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,7 +24,8 @@
   <img align="center" alt="Jefter-MySQL" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
- 
+ ## CONTATO
+  
 <div> 
   <a href="https://www.youtube.com/channel/UCWGfnI0UbjfsUk3Q81bw8LA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jef1nho_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -34,3 +36,9 @@
   ![Snake animation](https://github.com/jefterv/jefterv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<p> Tenho 19 anos, trabalho com desenvolvimento de software e automação de processos. <br/>Desde muito novo, sempre fui apaixonado por tecnologia e inovação. Além das tecnologias citadas acima, tambem tenho conhecimento nas seguintes tecnologias:<br/>
+- 👨‍💻 Computação em nuvem: AWS, Google Cloud Platform<br/>
+- 💻 Servidor WEB: Apache, NGINX<br/>
+- 📀 Linux: Manjaro, Ubuntu e Debian<br/>
+<p>
