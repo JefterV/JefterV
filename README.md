@@ -24,7 +24,7 @@
   <img align="center" alt="Jefter-MySQL" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
- ## CONTATO
+ ## MIDIA SOCIAL 
   
 <div> 
   <a href="https://www.youtube.com/channel/UCWGfnI0UbjfsUk3Q81bw8LA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
